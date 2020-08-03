@@ -1,3 +1,5 @@
-# Diagnosis of COVID-19 and its clinical spectrum
+# COVID-19 time-series prediction with LSTM model for Daily Coronavirus Cases using PyTorch in Python
 
-[data-source](https://www.kaggle.com/einsteindata4u/covid19)
+[data-source-1](https://github.com/CSSEGISandData/COVID-19)
+[data-source-2](https://www.kaggle.com/einsteindata4u/covid19)
+
